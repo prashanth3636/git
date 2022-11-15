@@ -1,0 +1,27 @@
+pubic ex {
+int a ;
+int b ;
+void add ();
+{
+  System.out.println("addition resultis":+ a+b) ;
+}
+ void mul()
+  { 
+    System.out.println ("multipication result" + a*b) ;
+}
+}
+ class method ex {
+
+ public static void string ary [] {
+   int p= 25 ;
+   int q =35 ;
+  ex obj1 =new ex();
+ obj1.a=p
+obj2.b=q
+obj1.add();
+obj1.mul();
+}
+}
+
+
+    
