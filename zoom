@@ -1,0 +1,5 @@
+class ary ex{
+ public static void main string ary[] {
+    int[] [] marks = {{1,2,3,4,5},{23,43,45,56,67,78},{67,89,67,898,56,78}}
+System.out.println("marks"[0][1]);
+
